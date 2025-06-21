@@ -1,5 +1,3 @@
-# lead-nurture-automation
+# Lead Nurture Automation
 
-<p>
-<img src="https://i.ibb.co/wbw55wX/Lead-Nurture-Strategy-Automation.png](https://ibb.co/NdCnjcm5 alt"Resource Group"/?
-</p>
+![Lead Nurture Strategy]([https://github.com/user-attachments/assets/2eaee7ff-3704-4311-b019-53acb73794a5](https://ibb.co/gXPkkPp)
