@@ -24,5 +24,5 @@ Improved Customer Experience and Relationship Building Automated nurturing deliv
 
 </summary>
 
-[![Trello Onboarding Automation](https://i.vimeocdn.com/video/2029015615-30ffabce1241e9098d9cd1b7e4bc5c8d468a623a2417d9b19884fa54b75deca5-d_142x80?&r=pad&region=us)](https://vimeo.com/1095255933 "Lead Nurture Automation")
+[![Trello Onboarding Automation](https://i.vimeocdn.com/video/2029015615-30ffabce1241e9098d9cd1b7e4bc5c8d468a623a2417d9b19884fa54b75deca5-d_640x360?&r=pad&region=us)](https://vimeo.com/1095255933 "Lead Nurture Automation")
 
